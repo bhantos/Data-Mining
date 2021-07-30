@@ -1,4 +1,4 @@
-
+The topics of the course
     01 Exploratory data analysis
     02 Unsupervised learning & clustering: TSNE, PCA, hierarchical clustering
     03 k Nearest Neighbors
@@ -12,4 +12,4 @@
     11 More neural networks 
     12 Word embedding, RNNs 
 
-My main project was exploring and analysing a dataset of used cars and predicting prices with Gradient Boosting. 
+My main project was exploring and analysing a dataset of used cars and predicting prices with Gradient Boosting.
