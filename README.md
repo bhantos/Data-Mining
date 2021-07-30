@@ -12,4 +12,4 @@ The topics of the course
 * 11 More neural networks 
 * 12 Word embedding, RNNs 
 
-My main project was exploring and analysing a dataset of used cars and predicting prices with Gradient Boosting.
+My main project was exploring and analysing a dataset of used cars and predicting prices with gradient boosting.
