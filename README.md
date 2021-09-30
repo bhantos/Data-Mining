@@ -1,3 +1,8 @@
+# Data mining and machine learning
+Course taught by Bálint Ármin Pataki @ ELTE.
+
+This repo contains my work for the course.
+
 The topics of the course
 * 01 Exploratory data analysis
 * 02 Unsupervised learning & clustering: TSNE, PCA, hierarchical clustering
