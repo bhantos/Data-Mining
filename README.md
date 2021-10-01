@@ -18,3 +18,5 @@ The topics of the course
 * 12 Word embedding, RNNs 
 
 My main project was exploring and analysing a dataset of used cars and predicting prices with gradient boosting.
+
+<b> If a notebook fails to open, it can be viewed at https://nbviewer.jupyter.org/github/Balint831/Data-Mining/tree/main/ . </b>
